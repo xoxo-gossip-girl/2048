@@ -316,10 +316,10 @@ hr {
     z-index: 10;
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
-    background-image: url(1.png);
+    background-image: url(1.jpg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background-image: url(2.jpg);
+    background-image: url(2.png);
     ;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
@@ -328,19 +328,19 @@ hr {
     }
   .tile.tile-16 .tile-inner {
     color: #FFCCCC;
-    background-image: url(4.jpg);
+    background-image: url(4.png);
     }
   .tile.tile-32 .tile-inner {
     color: #FFCCCC;
-    background-image: url(5.jpg);
+    background-image: url(5.png);
     }
   .tile.tile-64 .tile-inner {
     color: #FFCCCC;
-    background-image: url(6.png);
+    background-image: url(6.jpg);
     background-size:107px 107px;}
   .tile.tile-128 .tile-inner {
     color: #FFCCCC;
-    background-image: url(7.jpg);
+    background-image: url(7.png);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
@@ -348,7 +348,7 @@ hr {
         font-size: 0px; } }
   .tile.tile-256 .tile-inner {
     color: #FFCCCC;
-    background-image: url(8.jpg);
+    background-image: url(8.png);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
@@ -364,7 +364,7 @@ hr {
         font-size: 0px; } }
   .tile.tile-1024 .tile-inner {
     color: #FFCCCC;
-    background-image: url(10.jpg);
+    background-image: url(10.png);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
@@ -372,7 +372,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: #FFCCCC;
-    background-image: url(11.jpg);
+    background-image: url(11.png);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
