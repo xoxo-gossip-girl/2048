@@ -1,3 +1,3 @@
-# Taylor 2048
+# 2048 for friends
 
-A Taylor Swift clone of [2048](http://gabrielecirulli.github.io/2048/) made for Harmony.
+A clone of [2048](http://gabrielecirulli.github.io/2048/).
